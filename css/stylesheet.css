@@ -1,0 +1,10 @@
+body {
+   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+   font-weight: 300;
+}
+
+.section-row{
+	border-bottom: 2px;
+	border-bottom-color: gray;
+	border-bottom-style: solid;
+}
