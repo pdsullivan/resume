@@ -1,3 +1,2 @@
-|  d | Patrick D Sullivan  |d |
-| :------------ |:---------------:| -----:|
-|    d   | d | d |
+#Patrick D Sullivan
+###patdsully88@gmail.com
