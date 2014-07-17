@@ -5,6 +5,6 @@ body {
 
 .section-row{
 	border-bottom: 2px;
-	border-bottom-color: gray;
+	border-bottom-color: rgb(201, 201, 201);
 	border-bottom-style: solid;
 }
