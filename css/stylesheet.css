@@ -12,3 +12,7 @@ body {
 	border-bottom-color: rgb(201, 201, 201);
 	border-bottom-style: solid;
 }
+
+#profile-pic{
+	margin-bottom: 4px;
+}
